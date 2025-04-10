@@ -159,7 +159,7 @@
         display: flex;
     }
     .nav-tab ul li a {
-    margin-left: -20px;
+    margin-left: 20px;
 }
     .nav-button {
         display: flex;
